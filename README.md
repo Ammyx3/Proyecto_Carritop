@@ -10,7 +10,11 @@ Implementar un sistema de visión por computadora en un robot móvil capaz de ex
 
 ## Integrantes
 - Yeimi Guadalupe Zuñiga de León
-- 
+- Héctor Antonio García Vidaña
+- Iztelt Yamileth Cedillo Hernandez
+- Arturo Resendez Muñiz
+- Emiliano Arce Rodriguez
+
 
 ## Tecnologías Usadas
 - **Hardware:** Raspberry Pi 4, Cámara Raspberry Pi, Motores DC, Regulador de voltaje
